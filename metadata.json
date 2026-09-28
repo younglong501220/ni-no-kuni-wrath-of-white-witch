@@ -1,0 +1,6 @@
+{
+  "name": "二之國：白色聖灰的女王 - 奇幻冒險與使魔戰鬥",
+  "description": "體驗吉卜力風格魔法奇幻 RPG！包含奧利佛與小滴的章節冒險故事、心靈之瓶修補心靈、魔法大典秘典與使魔戰鬥小遊戲。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

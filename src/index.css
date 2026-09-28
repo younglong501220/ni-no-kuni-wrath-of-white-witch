@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@layer base {
+  /* Custom scrollbar for fantasy parchment feel */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #121a22;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #3a4c5e;
+    border-radius: 3px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #c8963e;
+  }
+}
